@@ -1,5 +1,5 @@
 {
-  "name": "biz-days",
+  "name": "biz-days-calculator",
   "version": "1.0.0",
   "description": "Business days calculator with pluggable locale/holiday support",
   "main": "dist/index.js",
